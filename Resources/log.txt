@@ -1,0 +1,1 @@
+http://api.wolframalpha.com/v2/query?appid=YU4XG4-6KYLKUQ9KQ&input=&format=image&includepodid=Solution
